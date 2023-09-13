@@ -1,0 +1,19 @@
+header
+{
+    background-color: #FFFFFF;
+    height: 70px;
+    width: 100%;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    border-color: #CCCCCC;
+}
+
+header div.logo
+{
+    position: absolute;
+    background:url('../images/logo.png');
+    left: 20px;
+    top: 5px;
+    width: 142px;
+    height: 60px;
+}
