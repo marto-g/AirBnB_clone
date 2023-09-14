@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body
 {
     margin: 0;
@@ -5,4 +6,9 @@ body
     color: #484848;
     font-size: 14px;
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+=======
+body {
+	margin:0px;
+	padding:0px;
+>>>>>>> 031c8a2a027215a871df7bfe191634358ac25f0d
 }
